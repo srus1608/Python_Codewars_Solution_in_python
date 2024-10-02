@@ -1,3 +1,4 @@
+
 def count(s):
     if not s:
         return {}
